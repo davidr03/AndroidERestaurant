@@ -7,4 +7,6 @@
     <string name="dessert">Dessert</string>
     <string name="plats">Plats</string>
     <string name="entr_e">Entrée</string>
+    <string name="droidrestaurant">Droidrestaurant</string>
+    <string name="entr_es">Entrées</string>
 </resources>

@@ -4,11 +4,11 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
+
     override fun onStop() {
         super.onStop()
         Log.d("homeActivity","homeStop")
@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
         val entree = findViewById<TextView>(R.id.Entree)
         val plat = findViewById<TextView>(R.id.Plat)
-        val dessert = findViewById<TextView>(R.id.Dessert)
+        val dessert = findViewById<TextView>(R.id.Desserts)
         entree.setOnClickListener {
             /**
              * info-bulle ou l'on affiche du texte
