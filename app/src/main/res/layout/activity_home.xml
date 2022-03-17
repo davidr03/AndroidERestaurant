@@ -35,12 +35,12 @@
             android:layout_marginEnd="164dp" android:typeface="normal" app:layout_constraintTop_toTopOf="parent"
             android:theme="@style/Theme.AndroidERestaurant"
             app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="93dp"
-            android:layout_marginBottom="90dp" app:layout_constraintBottom_toTopOf="@+id/Entree"
+            android:layout_marginBottom="90dp" app:layout_constraintBottom_toTopOf="@+id/Entrées"
             app:layout_constraintHorizontal_bias="0.0" app:layout_constraintVertical_bias="0.934"/>
     <TextView
             android:text="@string/entr_es"
             android:layout_width="102dp"
-            android:layout_height="48dp" android:id="@+id/Entree"
+            android:layout_height="48dp" android:id="@+id/Entrées"
             android:textSize="34sp" android:textStyle="bold"
             android:textAllCaps="false" android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:fontFamily="cursive" app:layout_constraintEnd_toEndOf="parent"

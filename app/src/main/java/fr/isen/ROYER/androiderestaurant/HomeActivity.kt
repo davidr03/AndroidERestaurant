@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.`activity_home`)
 
 
-        val entree = findViewById<TextView>(R.id.Entree)
+        val entree = findViewById<TextView>(R.id.Entrées)
         val plat = findViewById<TextView>(R.id.Plat)
         val dessert = findViewById<TextView>(R.id.Desserts)
         entree.setOnClickListener {
