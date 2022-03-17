@@ -3,10 +3,10 @@
     <string name="button_test_0">Button test 0</string>
     <string name="bienvenue_chez">Bienvenue chez</string>
     <string name="droitrestaurant">DroitRestaurant</string>
-    <string name="todo">TODO</string>
     <string name="dessert">Dessert</string>
     <string name="plats">Plats</string>
     <string name="entr_e">Entrée</string>
     <string name="droidrestaurant">Droidrestaurant</string>
     <string name="entr_es">Entrées</string>
+    <string name="todo">TODO</string>
 </resources>
